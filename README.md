@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
