@@ -9,11 +9,13 @@
 | [0014-longest-common-prefix](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +58,13 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
