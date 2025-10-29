@@ -81,6 +81,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
