@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
