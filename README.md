@@ -9,12 +9,14 @@
 | [0014-longest-common-prefix](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -54,6 +56,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -67,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -76,4 +80,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
