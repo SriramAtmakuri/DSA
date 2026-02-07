@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
@@ -67,6 +68,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
@@ -79,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0374-guess-number-higher-or-lower) |
