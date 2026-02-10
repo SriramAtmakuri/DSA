@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
