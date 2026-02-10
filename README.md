@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0383-ransom-note) |
 ## Interactive
 |  |
 | ------- |
