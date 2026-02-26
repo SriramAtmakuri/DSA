@@ -69,10 +69,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0342-power-of-four) |
