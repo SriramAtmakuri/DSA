@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SriramAtmakuri/https-github.com-SriramAtmakuri-DSA/tree/master/0374-guess-number-higher-or-lower) |
